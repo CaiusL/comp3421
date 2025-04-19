@@ -32,9 +32,7 @@ A responsive web application for creating, taking, and managing quizzes. This pr
 - PHP and MySQL installed.
 
 ### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/comp3421.git
+1. Clone the repository
 2. Navigate to the frontend folder and install dependencies:
     cd frontend
     npm install
